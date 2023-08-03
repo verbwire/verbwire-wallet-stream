@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Verbwire Wallet Event Stream",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/verbwire/verbwire-wallet-stream.git"
+  },
   "type": "module",
   "scripts": {
     "build": "tsc",
