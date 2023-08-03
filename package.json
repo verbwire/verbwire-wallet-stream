@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Justin Bojarski",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
     "prop-types": "^15.8.1",
     "react": "^18.2.0"
